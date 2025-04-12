@@ -14,10 +14,13 @@ I’m currently building cool stuff with the MERN stack and leveling up my mobil
 ## 📈 GitHub Stats
 ![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carla-io&show_icons=true&theme=tokyonight)
 
+## 📊 Contribution Graph
+[![Carla's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=carla-io&theme=github-dark&area=true)](https://github.com/carla-io)
+
 ## 🌐 Connect With Me
 - 📸 [Instagram](https://www.instagram.com/ca.rkive/?hl=en)
 - 🐙 [GitHub](https://github.com/carla-io)
 
----
+
 
 
