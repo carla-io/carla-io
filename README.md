@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Carla!
 
-<!--
-**carla-io/carla-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a curious and creative dev exploring the world of code, one project at a time.
 
-Here are some ideas to get you started:
+## 💻 What I'm Working With
+- 🔧 Languages: JavaScript, TypeScript
+- 📱 Frontend: React Native
+- 🌐 Backend: Node.js, Express, MongoDB (MERN Stack)
+- ⚙️ Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+I’m currently building cool stuff with the MERN stack and leveling up my mobile dev skills with React Native. Stay tuned! 👀
+
+## 📈 GitHub Stats
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carla-io&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+- 📸 [Instagram](https://www.instagram.com/ca.rkive/?hl=en)
+- 🐙 [GitHub](https://github.com/carla-io)
+
+---
+
+> “Keep it simple, but significant.” – Don Draper
