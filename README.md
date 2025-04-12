@@ -20,4 +20,4 @@ I’m currently building cool stuff with the MERN stack and leveling up my mobil
 
 ---
 
-> “Keep it simple, but significant.” – Don Draper
+
