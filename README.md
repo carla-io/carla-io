@@ -17,17 +17,6 @@
 
 <br/>
 
-### 📌 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/carla-io/noisewatch">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=carla-io&repo=noisewatch&theme=tokyonight" />
-</a>
-
-</div>
-
-<br/>
 
 ### 📊 GitHub Stats
 
@@ -49,8 +38,8 @@
 <div align="center">
 
 <!-- Replace the # below with your real links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/carla-dasal-486736399/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="dasalcarla812@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
